@@ -1,0 +1,19 @@
+﻿Сборка начата 10.05.2024 15:27:57.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\renam\SOMETHING #1\LabRab\KPO   - (4 from 13)\лаб. 06 +\SE_Lab06\SE_Lab06S\SE_Lab06L\SE_Lab06L.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\SE_Lab06L.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\Lib.exe /OUT:"C:\Users\renam\SOMETHING #1\LabRab\KPO   - (4 from 13)\лаб. 06 +\SE_Lab06\SE_Lab06S\Debug\SE_Lab06L.lib" /NOLOGO /MACHINE:X86 Debug\Dictionary.obj
+         SE_Lab06L.vcxproj -> C:\Users\renam\SOMETHING #1\LabRab\KPO   - (4 from 13)\лаб. 06 +\SE_Lab06\SE_Lab06S\Debug\SE_Lab06L.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab06L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab06L.tlog\SE_Lab06L.lastbuildstate".
+     1>Сборка проекта "C:\Users\renam\SOMETHING #1\LabRab\KPO   - (4 from 13)\лаб. 06 +\SE_Lab06\SE_Lab06S\SE_Lab06L\SE_Lab06L.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.37
