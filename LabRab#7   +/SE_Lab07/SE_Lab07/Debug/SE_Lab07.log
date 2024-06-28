@@ -1,0 +1,19 @@
+﻿Сборка начата 17.05.2024 15:54:36.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\renam\SOMETHING #1\LabRab\KPO   - (4 from 13)\лаб. 07 +\SE_Lab07\SE_Lab07\SE_Lab07.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\SE_Lab07.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         SE_Lab07.vcxproj -> C:\Users\renam\SOMETHING #1\LabRab\KPO   - (4 from 13)\лаб. 07 +\SE_Lab07\Debug\SE_Lab07.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab07.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab07.tlog\SE_Lab07.lastbuildstate".
+     1>Сборка проекта "C:\Users\renam\SOMETHING #1\LabRab\KPO   - (4 from 13)\лаб. 07 +\SE_Lab07\SE_Lab07\SE_Lab07.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.17
